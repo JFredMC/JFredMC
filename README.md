@@ -2,7 +2,9 @@
 
 ### Tecnólogo en análisis y desarrollo de sistemas de información
 
-Soy Junior Developer 💻
+Soy Junior Developer 💻 <img align="right" src="![image](https://user-images.githubusercontent.com/83928959/165648377-bba697e5-affa-42d8-b021-6dd69785d955.png)
+"/>
+
 
 ## Skills
 Nodejs
