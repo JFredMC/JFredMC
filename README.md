@@ -1,10 +1,10 @@
 ## Hola 👋, Soy Jhon Maquilon
 
-### Tecnólogo en análisis y desarrollo de sistemas de información
+## Tecnólogo en análisis y desarrollo de sistemas de información
 
 Soy Junior Developer 💻
 
-### Skills
+## Skills
 Nodejs
 <!--
 **JFredMC/JFredMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
