@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, i'm Jhon Maquilon
+
+I'm a technologist in analysis and development of information systems
 
 I'm a Junior Developer 💻
 
