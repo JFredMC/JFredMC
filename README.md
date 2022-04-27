@@ -1,6 +1,6 @@
 ## Hola 👋, Soy Jhon Maquilon
 
-## Tecnólogo en análisis y desarrollo de sistemas de información
+# Tecnólogo en análisis y desarrollo de sistemas de información
 
 Soy Junior Developer 💻
 
