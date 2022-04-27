@@ -1,8 +1,10 @@
-### Hi there 👋, i'm Jhon Maquilon
+### Hola 👋, Soy Jhon Maquilon
 
-I'm a technologist in analysis and development of information systems
+## Tecnólogo en análisis y desarrollo de sistemas de información
 
-I'm a Junior Developer 💻
+Soy Junior Developer 💻
+
+_________________________________________________________________________________________________________________________________________________________________________
 
 <!--
 **JFredMC/JFredMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
