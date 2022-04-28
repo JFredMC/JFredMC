@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://avatars.dicebear.com/api/bottts/.svg"  width="250px"/>
+</div>
+
 ## Hola, Soy Jhon Maquilon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> 
 
 
@@ -6,7 +10,7 @@
 
  
  ## Acerca de mi
-<img align="right" src="https://github.com/JFredMC/JFredMC/blob/main/undraw_code_review_re_woeb.svg" width="450" height="320"/>
+<img align="right" src="https://github.com/JFredMC/JFredMC/blob/main/undraw_code_review_re_woeb.svg" width="450" height="300"/>
  
 Soy una persona responsable, dinámica, dado al trabajo en equipo, orientado al logro, con disponibilidad de aprender y aportar desde su formación académica.
  
@@ -16,7 +20,7 @@ Poseo conocimientos en HTML, CSS, PHP, JavaScript, NodeJs, ExpressJs y actualmen
 Conocimientos en metodologías ágiles de gestión: Scrum y Kanban, Experiencia en manejo de repositorios Git, GitLab y Github y conocimientos en herramientas de gestión de proyectos como: Jira
 
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=blanco" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-fff?style=flat-square&logo=html5&logoColor=blanco" />
   <img alt="css" src="https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JS-F0db4f?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -24,7 +28,7 @@ Conocimientos en metodologías ágiles de gestión: Scrum y Kanban, Experiencia 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-254E70?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-7078b0?style=flat-square&logo=php&logoColor=blanco" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-fff?style=flat-square&logo=php&logoColor=blanco" />
 </p>
 
 ## Contacto
