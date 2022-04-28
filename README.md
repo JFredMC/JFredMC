@@ -7,12 +7,9 @@
 ### Tecnólogo en análisis y desarrollo de sistemas de información
 
 
-
-
-
  
  ## Acerca de mi
- Soy Junior Developer 💻 <img align="right" src="https://github.com/JFredMC/JFredMC/blob/main/undraw_code_review_re_woeb.svg" width="450" height="320"/>
+ <img align="right" src="https://github.com/JFredMC/JFredMC/blob/main/undraw_code_review_re_woeb.svg" width="450" height="320"/>
  Tecnólogo en análisis y desarrollo de sistemas de información (SENA) responsable, dinámico, dado al trabajo en equipo, orientado al logro, con disponibilidad de     aprender y aportar desde su formación académica.
 
 Poseo conocimientos en HTML, CSS, PHP, JavaScript, NodeJs, ExpressJs y actualmente aprendiendo React, consumo de APIs REST y manejo de bases de datos SQL atraves del gestor de bases de datos Mysql
