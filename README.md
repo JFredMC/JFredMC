@@ -6,7 +6,7 @@
 
  
  ## Acerca de mi
- <img align="right" src="https://github.com/JFredMC/JFredMC/blob/main/undraw_code_review_re_woeb.svg" width="450" height="320"/>
+ <img align="right" src="https://github.com/JFredMC/JFredMC/blob/main/code.jpg" width="320" height="320"/>
  
  Soy una persona responsable, dinámico, dado al trabajo en equipo, orientado al logro, con disponibilidad de aprender y aportar desde su formación académica.
  
@@ -30,6 +30,9 @@ Conocimientos en metodologías ágiles de gestión: Scrum y Kanban, Experiencia 
 ## Contacto
 <a href="https://www.linkedin.com/in/jfredmc/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=573106643807">
+  <img align="left" alt="Abhishek's WhatsApp" width="22px" src="https://cdn-icons-png.flaticon.com/512/1051/1051272.png" />
 </a>
 <!--
 **JFredMC/JFredMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
