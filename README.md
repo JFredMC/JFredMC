@@ -31,9 +31,17 @@ Conocimientos en metodologías ágiles de gestión: Scrum y Kanban, Experiencia 
 <a href="https://www.linkedin.com/in/jfredmc/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="https://github.com/JFredMC/">
+  <img align="left" alt="Abhishek's GitHub" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111432.png" />
+</a>
 <a href="https://api.whatsapp.com/send?phone=573106643807">
   <img align="left" alt="Abhishek's WhatsApp" width="22px" src="https://cdn-icons-png.flaticon.com/512/1051/1051272.png" />
 </a>
+
+<a href="https://github.com/JFredMC/JFredMC/blob/main/Jhon_Maquilon_Perfil.pdf">
+  <img align="left" alt="Abhishek's WhatsApp" width="22px" src="https://cdn-icons.flaticon.com/png/512/4208/premium/4208397.png?token=exp=1651109808~hmac=f04fea056393542386c133d4e9e2718b" />
+</a>
+
 <!--
 **JFredMC/JFredMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
