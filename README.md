@@ -43,7 +43,7 @@ Conocimientos en metodologías ágiles de gestión: Scrum y Kanban, Experiencia 
 </a>
 
 <a href="https://github.com/JFredMC/JFredMC/blob/main/Jhon_Maquilon_Perfil.pdf">
-  <img align="left" alt="PDF" width="22px" src="https://cdn-icons.flaticon.com/png/512/4208/premium/4208397.png?token=exp=1651109808~hmac=f04fea056393542386c133d4e9e2718b" />
+  <img align="left" alt="PDF" width="22px" src="https://cdn-icons-png.flaticon.com/512/337/337946.png" />
 </a>
 
 <!--
