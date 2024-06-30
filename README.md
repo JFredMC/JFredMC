@@ -33,7 +33,7 @@ Conocimientos en metodologías ágiles de gestión: Scrum y Kanban, Experiencia 
 </p>
 
 ## Contacto
-<a href="https://www.linkedin.com/in/jfredmc/">
+<a href="https://www.linkedin.com/in/jfredmc/" target="_blank">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" />
 </a>
 <a href="https://github.com/JFredMC/">
