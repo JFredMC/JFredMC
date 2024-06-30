@@ -7,7 +7,7 @@
 ## Desarrollador Web
 
 ### Acerca de mí
-<img align="right" src="https://github.com/JFredMC/JFredMC/blob/main/undraw_code_review_re_woeb.svg" width="450" height="300"/>
+<img align="right" src="programador.avif" width="450" height="300"/>
 
 Soy una persona responsable, dinámica, dado al trabajo en equipo, orientado al logro, con disponibilidad de aprender y aportar desde mi formación académica.
 
