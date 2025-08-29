@@ -9,6 +9,7 @@
 ### Acerca de mí
 <img align="right" src="programador.avif" width="450" height="300"/>
 
+
 Ingeniero de Software con más de 4 años de experiencia en el diseño, desarrollo y despliegue de aplicaciones web de alto rendimiento. Especializado en arquitecturas basadas en Angular en el frontend y NestJS en el backend, dominio de JavaScript y TypeScript, y amplio manejo de APIs RESTful. Proactivo, orientado al logro y al trabajo en equipo, con capacidad de adaptación a metodologías ágiles (Scrum, Kanban) y pasión por aprender nuevas tecnologías para aportar valor inmediato al negocio.
 
 ### Tecnologías
