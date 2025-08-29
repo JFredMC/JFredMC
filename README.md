@@ -9,13 +9,7 @@
 ### Acerca de mí
 <img align="right" src="programador.avif" width="450" height="300"/>
 
-Soy una persona responsable, dinámica, dado al trabajo en equipo, orientado al logro, con disponibilidad de aprender y aportar desde mi formación académica.
-
-### Habilidades Técnicas
-
-Poseo conocimientos en HTML, CSS, JavaScript, TypeScript, NodeJs, ExpressJs, Nestjs, Ruby on rails y Angular, consumo de APIs REST y manejo de bases de datos SQL a través del gestor de bases de datos MySQL y PostgreSQL
-
-Conocimientos en metodologías ágiles de gestión: Scrum y Kanban, Experiencia en manejo de repositorios Git, GitLab y Github y conocimientos en herramientas de gestión de proyectos como: Jira, Planner y Asana
+Ingeniero de Software con más de 4 años de experiencia en el diseño, desarrollo y despliegue de aplicaciones web de alto rendimiento. Especializado en arquitecturas basadas en Angular en el frontend y NestJS en el backend, dominio de JavaScript y TypeScript, y amplio manejo de APIs RESTful. Proactivo, orientado al logro y al trabajo en equipo, con capacidad de adaptación a metodologías ágiles (Scrum, Kanban) y pasión por aprender nuevas tecnologías para aportar valor inmediato al negocio.
 
 ### Tecnologías
 
