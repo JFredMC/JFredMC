@@ -20,20 +20,28 @@
 
 ## 👨‍💻 Acerca de mí
 
-Ingeniero de Software con más de 4 años de experiencia en el diseño, desarrollo y despliegue de aplicaciones web de alto rendimiento. Especializado en arquitecturas basadas en **Angular** en el frontend y **NestJS** en el backend, dominio de **JavaScript** y **TypeScript**, y amplio manejo de **APIs RESTful**. Proactivo, orientado al logro y al trabajo en equipo, con capacidad de adaptación a metodologías ágiles (Scrum, Kanban) y pasión por aprender nuevas tecnologías para aportar valor inmediato al negocio.
+Soy **desarrollador Full Stack Semi Senior** con más de 4 años construyendo software que se usa en producción todos los días: sistemas de recaudo, gestión de flotas e información al usuario para operadores de transporte público.
 
-📍 Turbo, Antioquia, Colombia &nbsp;·&nbsp; 🎯 Interesado en oportunidades en **fintech y banca**
+Trabajo principalmente con **Angular** y **TypeScript** en el frontend, y con **NestJS** y **Ruby on Rails** en el backend, sobre **PostgreSQL**. Me gusta entender el negocio detrás del código: conciliar datos, cuidar la trazabilidad y resolver de raíz los problemas que afectan la operación.
+
+Me muevo bien en equipos ágiles (Scrum, Kanban) y hoy busco llevar esa experiencia en **pagos y recaudo** al mundo **fintech y banca digital**.
+
+📍 Turbo, Antioquia, Colombia &nbsp;·&nbsp; 🌎 Trabajo remoto &nbsp;·&nbsp; 🎯 Abierto a oportunidades en **fintech y banca**
 
 ## 💼 Experiencia actual
 
 **Full Stack Developer Semi Senior — MET GROUP SAS** · _mayo 2022 – actualidad_
 
-Desarrollo de plataformas de recaudo, pagos y gestión de transporte público:
+Sistemas en los que he trabajado, desplegados para **Metrolínea**, **SI18 / TransMilenio** y **Juárez Bus**:
 
-- **MET•PAY** — recaudo abierto basado en cuenta (_account-based open fare collection_).
-- **MET•VOA** — gestión de flota.
-- **MET•SIU**.
-- Soluciones implementadas para **Metrolínea**, **SI18 / TransMilenio** y **Juárez Bus**.
+| Sistema | Descripción |
+|---|---|
+| 💳 **MET•PAY** | Sistema de recaudo para servicios de transporte |
+| 🚌 **MET•VOA** | Sistema de gestión y control de flota |
+| 🚍 **VOASI18** | Sistema de gestión y control de flota a la medida de **SI18**, operador de TransMilenio (Ruby on Rails) |
+| 🛠️ **MDS** | Sistema de mesa de servicios |
+| 📢 **MET•SIU** | Sistema de información al usuario |
+| 🎬 **MET•EOD** | Sistema de entretenimiento bajo demanda |
 
 ## 🛠️ Tecnologías
 
