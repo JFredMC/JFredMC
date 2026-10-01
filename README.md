@@ -4,7 +4,9 @@
 
 # Hola, Soy Jhon Maquilon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/> 
 
-## Desarrollador Web
+## Full Stack Developer Semi Senior · Angular | NestJS | Ruby on Rails | PostgreSQL
+
+🌐 **Portafolio:** [jfredmc.github.io/portfolio](https://jfredmc.github.io/portfolio/) · 📄 **CV:** [CV-Jhon-Maquilon-2026.pdf](https://github.com/JFredMC/JFredMC/blob/main/CV-Jhon-Maquilon-2026.pdf)
 
 ### Acerca de mí
 <img align="right" src="programador.avif" width="450" height="300"/>
@@ -16,7 +18,7 @@ Ingeniero de Software con más de 4 años de experiencia en el diseño, desarrol
 ### Tecnologías
 
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-fff?style=flat-square&logo=html5&logoColor=blanco" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-fff?style=flat-square&logo=html5&logoColor=black" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JS-F0db4f?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TS-3178c6?style=flat-square&logo=typescript&logoColor=white" />
@@ -24,6 +26,8 @@ Ingeniero de Software con más de 4 años de experiencia en el diseño, desarrol
   <img alt="Nestjs" src="https://img.shields.io/badge/Nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="express" src="https://img.shields.io/badge/-Express-AFACAB?style=flat-square&logo=express&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="Ruby on Rails" src="https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   <img alt="Mysql" src="https://img.shields.io/badge/-Mysql-254E70?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -40,6 +44,9 @@ Ingeniero de Software con más de 4 años de experiencia en el diseño, desarrol
 <a href="https://api.whatsapp.com/send?phone=573106643807" target="_blank">
   <img align="left" alt="WhatsApp" width="22px" src="https://cdn-icons-png.flaticon.com/512/1051/1051272.png" />
 </a>
-<a href="https://github.com/JFredMC/JFredMC/blob/main/Jhon_Maquilon_Perfil.pdf">
+<a href="https://jfredmc.github.io/portfolio/" target="_blank">
+  <img align="left" alt="Portafolio" width="22px" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" />
+</a>
+<a href="https://github.com/JFredMC/JFredMC/blob/main/CV-Jhon-Maquilon-2026.pdf">
   <img align="left" alt="PDF" width="22px" src="https://cdn-icons-png.flaticon.com/512/337/337946.png" />
 </a>
